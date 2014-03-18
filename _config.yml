@@ -10,13 +10,13 @@ links:
   - name:         About
     url:          /about
   - name:         Blog
-    url:          http://muan.co
+    url:          http://maziokey.github.io
     external:     true
   - name:         Email
-    url:          mailto:hello@muan.co
+    url:          mailto:okeyluvsu2004@yahoo.com
     external:     true
   - name:         GitHub
-    url:          http://github.com/muan
+    url:          http://github.com/maziokey
     external:     true
 pygments:         true
 permalink:        pretty
