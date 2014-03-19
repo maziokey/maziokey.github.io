@@ -3,8 +3,12 @@ layout: page
 title: About
 ---
 
-Give people something to read and get to know you. Here's my attempt: this is [Mu-An](http://muan.co), a designer developer who lives in London at the moment.
+An IT support specialist venturing into the vast world of web development. This blog will serve as a starting point as soon as I can wrap my head around this scribble theme I forked from [Mu-An](http://muan.co). I hope to share all my rookie experiences and eventually start to impact some knowledge to those who need them.
 
-Tweet at [@muanchiou](http://twitter.com/muanchiou), read my code on [GitHub](http://github.com/muan), see my designs on [Dribbble](http://dribbble.com/muan), find my CV on [LinkedIn](http://uk.linkedin.com/in/muanchiou).
+I already have a [wordpress](http://maxichimaximind.wordpress.com) and [Tumblr](http://maxichimaxi.tumblr.com) blog out there, but with this blog I get to use Github, thereby simultaneously learning how to use Github.
 
-This theme is made by me. You have a nice day. ♥
+Tweet me [@okeymaxi](http://twitter.com/okeymaxi) and read my Forked codes on [GitHub](http://github.com/maziokey).
+
+You have a nice day. ♥
+
+
