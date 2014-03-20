@@ -2,7 +2,7 @@ title:            Okey Chima
 description:      Okey's Sandbox
 url:              http://maziokey.github.io
 signoff:          Okey Chima
-disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
+disqus_shortname: maziokey
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
@@ -11,7 +11,7 @@ links:
     url:          /about
   - name:         Blog
     url:          http://maziokey.github.io
-    external:     true
+    external:     false
   - name:         Email
     url:          mailto:okeyluvsu2004@yahoo.com
     external:     true
